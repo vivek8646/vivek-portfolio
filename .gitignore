@@ -43,3 +43,5 @@ next-env.d.ts
 data.ts
 
 node_modules/*
+.idea/*
+.vscode/*
